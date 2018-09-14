@@ -1,0 +1,22 @@
+---
+title: "hw01_acme"
+output: rmarkdown::github_document
+---
+# R Markdown for acme exploration
+Dataset acme from the boot package describes monthly excess returns.
+```{r}
+library(boot)
+```
+**Show the dataset**
+```{r}
+print(acme)
+```
+**Summary of the data**
+```{r}
+summary(acme)
+```
+**Variance of acme**
+```{r}
+var(acme$acme)
+```
+
