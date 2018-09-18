@@ -2,8 +2,8 @@
 This repository is for Ziyan Gong to submit hw01 of UBC STAT545 course. Welcome here!
 
 **Besides this Markdown file, you may want:**
-[hw01_acme.Rmd](https://github.com/STAT545-UBC-students/hw01-g-ziyan/blob/master/hw01_acme.Rmd).
-[hw01_acme.md](https://github.com/STAT545-UBC-students/hw01-g-ziyan/blob/master/hw01_acme.md).
+- [hw01_acme.Rmd](https://github.com/STAT545-UBC-students/hw01-g-ziyan/blob/master/hw01_acme.Rmd).
+- [hw01_acme.md](https://github.com/STAT545-UBC-students/hw01-g-ziyan/blob/master/hw01_acme.md).
 
 ## More About Me
 I am a second-year master student from ECE. Nice to take the course STAT545.
